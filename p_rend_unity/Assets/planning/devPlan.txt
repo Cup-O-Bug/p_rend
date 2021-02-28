@@ -1,0 +1,11 @@
+• Rough slice (Area A, Area B, basic representations of the mechanical components)
+	• Best to start with the main loop (move through Render Path, find additional Render Path shots,
+		use when looking at target(target heighlighted when sufficiently close),
+		all render paths must be directed towards a target to win
+• Iterate
+	• Tweak mechanics
+	• Associate objects with the mechanical components
+	• Improve style
+• Once playable(preferably with at least the initial render aesthetic in place), get people to playtest it
+
+Polish and expand so as to increase probability of being hired more immediately.
